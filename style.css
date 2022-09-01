@@ -1,0 +1,20 @@
+.text-tittle{
+    text-align: center;
+    font-family: monospace;
+    color: #273746 ;
+}
+
+.text-form{
+    text-align: center;
+}
+
+.contenedor{
+    border-style: solid;
+    border-color: bisque;
+    border-width: 5px;
+    text-align: center;
+    background-color:#34495E ;
+    color: white;
+    margin: 20px 40px 20px 40px;
+    padding: 1.5em;
+}
